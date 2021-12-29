@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\arayuzler interface ornek\bin\Debug\net5.0\arayuzler interface ornek.exe
+D:\yazılım\pratikler\arayuzler interface ornek\bin\Debug\net5.0\arayuzler interface ornek.deps.json
+D:\yazılım\pratikler\arayuzler interface ornek\bin\Debug\net5.0\arayuzler interface ornek.runtimeconfig.json
+D:\yazılım\pratikler\arayuzler interface ornek\bin\Debug\net5.0\arayuzler interface ornek.runtimeconfig.dev.json
+D:\yazılım\pratikler\arayuzler interface ornek\bin\Debug\net5.0\arayuzler interface ornek.dll
+D:\yazılım\pratikler\arayuzler interface ornek\bin\Debug\net5.0\ref\arayuzler interface ornek.dll
+D:\yazılım\pratikler\arayuzler interface ornek\bin\Debug\net5.0\arayuzler interface ornek.pdb
+D:\yazılım\pratikler\arayuzler interface ornek\obj\Debug\net5.0\arayuzler interface ornek.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\arayuzler interface ornek\obj\Debug\net5.0\arayuzler interface ornek.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\arayuzler interface ornek\obj\Debug\net5.0\arayuzler interface ornek.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\arayuzler interface ornek\obj\Debug\net5.0\arayuzler interface ornek.AssemblyInfo.cs
+D:\yazılım\pratikler\arayuzler interface ornek\obj\Debug\net5.0\arayuzler interface ornek.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\arayuzler interface ornek\obj\Debug\net5.0\arayuzler interface ornek.dll
+D:\yazılım\pratikler\arayuzler interface ornek\obj\Debug\net5.0\ref\arayuzler interface ornek.dll
+D:\yazılım\pratikler\arayuzler interface ornek\obj\Debug\net5.0\arayuzler interface ornek.pdb
+D:\yazılım\pratikler\arayuzler interface ornek\obj\Debug\net5.0\arayuzler interface ornek.genruntimeconfig.cache
